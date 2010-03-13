@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+  <path>engine14R-4.ac</path>
+
+  <animation>
+    <object-name>moteur</object-name>
+  </animation>
+
+</PropertyList>
